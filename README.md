@@ -1,4 +1,4 @@
-# Kevin Fabito
+# John Kevin Fabito
 
 Aspiring Associate Software Engineer focused on Java desktop applications, database-backed workflows, and practical business tools.
 
